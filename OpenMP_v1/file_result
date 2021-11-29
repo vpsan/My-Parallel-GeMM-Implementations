@@ -1,0 +1,150 @@
+OpenMP threads: 1
+Matrix size: (500x500)X(500x500)
+Compute iters: 10
+
+Sec/iter: 0.151724
+GFLOPS: 1.64773e+09
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 1
+Matrix size: (1000x1000)X(1000x1000)
+Compute iters: 10
+
+Sec/iter: 1.25899
+GFLOPS: 1.58857e+09
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 1
+Matrix size: (1500x1500)X(1500x1500)
+Compute iters: 10
+
+Sec/iter: 7.5152
+GFLOPS: 8.9818e+08
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 2
+Matrix size: (500x500)X(500x500)
+Compute iters: 10
+
+Sec/iter: 0.071416
+GFLOPS: 3.50061e+09
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 2
+Matrix size: (1000x1000)X(1000x1000)
+Compute iters: 10
+
+Sec/iter: 0.714578
+GFLOPS: 2.79886e+09
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 2
+Matrix size: (1500x1500)X(1500x1500)
+Compute iters: 10
+
+Sec/iter: 3.26051
+GFLOPS: 2.07023e+09
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 4
+Matrix size: (500x500)X(500x500)
+Compute iters: 10
+
+Sec/iter: 0.0348686
+GFLOPS: 7.16976e+09
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 4
+Matrix size: (1000x1000)X(1000x1000)
+Compute iters: 10
+
+Sec/iter: 0.302951
+GFLOPS: 6.60173e+09
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 4
+Matrix size: (1500x1500)X(1500x1500)
+Compute iters: 10
+
+Sec/iter: 1.4608
+GFLOPS: 4.62076e+09
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 16
+Matrix size: (500x500)X(500x500)
+Compute iters: 10
+
+Sec/iter: 0.0113077
+GFLOPS: 2.21088e+10
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 16
+Matrix size: (1000x1000)X(1000x1000)
+Compute iters: 10
+
+Sec/iter: 0.0823432
+GFLOPS: 2.42886e+10
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 16
+Matrix size: (1500x1500)X(1500x1500)
+Compute iters: 10
+
+Sec/iter: 0.286162
+GFLOPS: 2.35881e+10
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 24
+Matrix size: (500x500)X(500x500)
+Compute iters: 10
+
+Sec/iter: 0.00836408
+GFLOPS: 2.98897e+10
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 24
+Matrix size: (1000x1000)X(1000x1000)
+Compute iters: 10
+
+Sec/iter: 0.0614991
+GFLOPS: 3.25208e+10
+
+Verifying results...
+Verification successful!
+
+OpenMP threads: 24
+Matrix size: (1500x1500)X(1500x1500)
+Compute iters: 10
+
+Sec/iter: 0.264984
+GFLOPS: 2.54733e+10
+
+Verifying results...
+Verification successful!
+
