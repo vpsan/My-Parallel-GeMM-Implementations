@@ -9,3 +9,7 @@ Several parallel GeMM implementations with OpenMP and OpenBLAS.
     2.1 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/vialeksukhin/blas/lib
     2.2 g++ gemm.cpp -fopenmp -O3 -I ~/blas/include -L ~/blas/lib -lopenblas -lpthread
     2.3 python loop.py
+
+Thanks for:
+    https://samma.hse.ru
+    http://www.ccfit.nsu.ru/~kireev/
