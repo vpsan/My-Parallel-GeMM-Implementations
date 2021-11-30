@@ -14,3 +14,5 @@ Thanks for:
     https://samma.hse.ru
     https://hpc.hse.ru/instructions/ssh
     http://www.ccfit.nsu.ru/~kireev/
+    https://fossies.org/linux/OpenBLAS/USAGE.md
+    
