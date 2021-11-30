@@ -12,4 +12,5 @@ Several parallel GeMM implementations with OpenMP and OpenBLAS.
 
 Thanks for:
     https://samma.hse.ru
+    https://hpc.hse.ru/instructions/ssh
     http://www.ccfit.nsu.ru/~kireev/
